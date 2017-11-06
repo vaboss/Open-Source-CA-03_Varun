@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/" xmlns:moz="http://www.mozilla.org/2006/browser/search/">
+	<ShortName>LAMINO</ShortName>
+	<Description>Search LAMINO - #Last Minute Notes</Description>
+	<Contact>help@wordpress.com</Contact>
+	<Url type="application/atom+xml" template="https://laminogreenlae.wordpress.com/?s={searchTerms}&amp;feed=atom"/>
+	<Url type="application/rss+xml"  template="https://laminogreenlae.wordpress.com/?s={searchTerms}&amp;feed=rss2"/>
+	<Url type="text/html"            template="https://laminogreenlae.wordpress.com/?s={searchTerms}" method="GET" />
+	<Url type="application/opensearchdescription+xml" rel="self" template="/osd.xml" />
+	<LongName>LAMINO</LongName>
+	<Image height="16" width="16" type="image/vnd.microsoft.icon">https://laminogreenlae.files.wordpress.com/2017/05/cropped-84itji4t.png?w=16</Image>
+	<Image height="64" width="64" type="image/png">https://laminogreenlae.files.wordpress.com/2017/05/cropped-84itji4t.png?w=64</Image>
+	<Query role="example" searchTerms="photography" />
+	<Tags>lpu-lpunotes-studynotes-lastnightstudy-notes 2ndyearnotes 3sem-4sem operating-system programming-in-java graphics mobile-computing advertisement basic-mathematics basic-electronics</Tags>
+	<Developer>Automattic</Developer>
+	<SyndicationRight>open</SyndicationRight>
+	<AdultContent>false</AdultContent>
+	<Language>en</Language>
+	<OutputEncoding>UTF-8</OutputEncoding>
+	<InputEncoding>UTF-8</InputEncoding>
+	<moz:SearchForm>https://laminogreenlae.wordpress.com</moz:SearchForm>
+</OpenSearchDescription>
