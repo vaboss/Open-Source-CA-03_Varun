@@ -1,0 +1,21 @@
+HTTrack3.49-2+htsswf+htsjava launched on Mon, 06 Nov 2017 21:20:30 at https://laminogreenlae.wordpress.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://laminogreenlae.wordpress.com/ -O1 "C:\My Web Sites\greenlae" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+21:22:54	Error: 	"Not Found" (404) at link https://cinfokqwerty.files.wordpress.com/2017/05/person-smartphone-office-table.jpeg (from https://laminogreenlae.wordpress.com/)
+21:26:07	Error: 	Exit requested by shell or user
+21:26:08	Warning: 	File not added due to mirror cancel: https://laminogreenlae.files.wordpress.com/2017/06/img_20170619_184740659.jpg?w=825
+21:26:26	Error: 	"Method Not Allowed" (405) at link https://laminogreenlae.wordpress.com/xmlrpc.php (from https://laminogreenlae.wordpress.com/2017/05/01/cse-101-programming-in-c/)
+21:26:26	Warning: 	Found for https://laminogreenlae.wordpress.com/2017/05/01/cse-101-programming-in-c/?share=twitter
+21:26:26	Warning: 	File has moved from https://laminogreenlae.wordpress.com/2017/05/01/cse-101-programming-in-c/?share=twitter to https://twitter.com/intent/tweet?via=wordpressdotcom&text=cse%20101%3A%20Programming%20in%20C&url=https%3A%2F%2Flaminogreenlae.wordpress.com%2F2017%2F05%2F01%2Fcse-101-programming-in-c%2F
+21:26:26	Warning: 	Found for https://laminogreenlae.wordpress.com/2017/05/01/cse-101-programming-in-c/?share=facebook
+21:26:26	Warning: 	File has moved from https://laminogreenlae.wordpress.com/2017/05/01/cse-101-programming-in-c/?share=facebook to https://www.facebook.com/sharer.php?u=https%3A%2F%2Flaminogreenlae.wordpress.com%2F2017%2F05%2F01%2Fcse-101-programming-in-c%2F&t=cse%20101%3A%20Programming%20in%20C
+21:26:26	Warning: 	Found for https://laminogreenlae.wordpress.com/2017/05/01/cse-101-programming-in-c/?share=google-plus-1
+21:26:26	Warning: 	File has moved from https://laminogreenlae.wordpress.com/2017/05/01/cse-101-programming-in-c/?share=google-plus-1 to https://plus.google.com/share?url=https%3A%2F%2Flaminogreenlae.wordpress.com%2F2017%2F05%2F01%2Fcse-101-programming-in-c%2F
+
+HTTrack Website Copier/3.49-2 mirror complete in 5 minutes 56 seconds : 364 links scanned, 357 files written (98094448 bytes overall) [90160572 bytes received at 253260 bytes/sec], 11037356 bytes transferred using HTTP compression in 108 files, ratio 26%, 5.5 requests per connection
+(3 errors, 7 warnings, 0 messages)

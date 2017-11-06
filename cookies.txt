@@ -1,0 +1,7 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+s.pubmine.com	TRUE	/	FALSE	1999999999	tuuid	1c408e1e-0a86-46ab-a330-65212754cf3b
+s.pubmine.com	TRUE	/	FALSE	1999999999	tuuid_last_update	1509983437
+.skimresources.com	TRUE	/	FALSE	1999999999	skimGUID	5c76d387531eb5613a6b85bc0faf2911
+.skimresources.com	TRUE	/	FALSE	1999999999	skimSESS	b9d0e6647b58779a4a333f5fc16192b7
+
